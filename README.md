@@ -2,4 +2,5 @@
 
 I like anything that makes my life easier, which is why I love Typescript, Java, and Golang. I also really dislike bad design, so I'm always striving to create beautiful and clean code. Currently, I'm studying systems science in Luleå, and I would love to work in a field where I can help create efficient and well-designed systems.
 
-[![Dexteresc's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexteresc)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/dexteresc/btrghstats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/dexteresc/btrghstats/master/generated/languages.svg#gh-light-mode-only)
